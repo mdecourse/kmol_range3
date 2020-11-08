@@ -7,7 +7,21 @@
 <find_panel_settings/>
 <vnodes>
 <v t="leo.20201108101132.2"><vh>import cpp files</vh></v>
-<v t="leo.20201108102637.1"><vh>KMOLab Range3 Study Note</vh></v>
+<v t="leo.20201108102637.1"><vh>KMOLab Range3 Study Note</vh>
+<v t="leo.20201108111758.1"><vh>Range</vh></v>
+<v t="leo.20201108111934.1"><vh>RBL</vh></v>
+<v t="leo.20201108111959.1"><vh>RML</vh></v>
+<v t="leo.20201108112035.1"><vh>RangeSolver</vh></v>
+<v t="leo.20201108112113.1"><vh>RangeSolverLib</vh></v>
+<v t="leo.20201108112154.1"><vh>RangeTests</vh></v>
+</v>
+<v t="leo.20201108112530.1"><vh>@path ../</vh>
+<v t="leo.20201108112501.1"><vh>@edit README.md</vh></v>
+<v t="leo.20201108112601.1"><vh>@path Scripts</vh>
+<v t="leo.20201108112621.1"><vh>@edit build.sh</vh></v>
+<v t="leo.20201108112644.1"><vh>@edit create_package.sh</vh></v>
+</v>
+</v>
 <v t="leo.20201108101517.1"><vh>imported files</vh>
 <v t="leo.20201108101517.2"><vh>@path ./</vh>
 <v t="leo.20201108101517.3"><vh>@path Range</vh>
@@ -108755,5 +108769,15 @@ RSolverWave &amp;RSolverWave::operator =(const RSolverWave &amp;waveSolver)
 
 </t>
 <t tx="leo.20201108102637.1"></t>
+<t tx="leo.20201108111758.1">Range is Qt GUI processes
+
+</t>
+<t tx="leo.20201108111934.1">Range Base Library</t>
+<t tx="leo.20201108111959.1">Range Model Library</t>
+<t tx="leo.20201108112035.1">Solver</t>
+<t tx="leo.20201108112113.1"></t>
+<t tx="leo.20201108112154.1">Range QTest</t>
+<t tx="leo.20201108112530.1"></t>
+<t tx="leo.20201108112601.1"></t>
 </tnodes>
 </leo_file>
